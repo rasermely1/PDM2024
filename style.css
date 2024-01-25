@@ -6,3 +6,11 @@ html, body {
 canvas {
   display: block;
 }
+
+.align-right{
+  text-align: right;
+}
+
+.top-spacer{
+  margin-top: 400px;
+}
